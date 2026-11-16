@@ -1,5 +1,9 @@
 # Machine Learning Models and Evaluation
 
+[**English**](README.md) | [한국어](README.ko.md)
+
+---
+
 A collection of machine learning experiments exploring **regression, classification, clustering, and sequential data analysis** using classical machine learning, neural networks, and probabilistic models.
 
 The project focuses on model implementation, performance evaluation, hyperparameter selection, and visualisation of experimental results.
